@@ -4,3 +4,14 @@
 
 [[plugins]]
   package = "@netlify/angular-runtime"
+
+[[redirects]]
+  from = "/"
+  to = "/home"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.csr.html"
+  status = 200
