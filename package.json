@@ -1,5 +1,5 @@
 {
-  "name": "cafeteria-puce",
+  "name": "reclutamiento-fae",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:cafeteria-puce": "node dist/cafeteria-puce/server/server.mjs"
+    "serve:ssr:reclutamiento-fae": "node dist/reclutamiento-fae/server/server.mjs"
   },
   "private": true,
   "packageManager": "npm@11.6.2",

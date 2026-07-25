@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "cafeteria-puce": {
+    "reclutamiento-fae": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -64,10 +64,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "cafeteria-puce:build:production"
+              "buildTarget": "reclutamiento-fae:build:production"
             },
             "development": {
-              "buildTarget": "cafeteria-puce:build:development"
+              "buildTarget": "reclutamiento-fae:build:development"
             }
           },
           "defaultConfiguration": "development"
